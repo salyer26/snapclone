@@ -22,4 +22,4 @@ export default function Home() {
 
     </main>
   );
-}
+}<h1>Hello SnapClone</h1>
